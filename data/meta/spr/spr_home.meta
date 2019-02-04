@@ -1,0 +1,20 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1549236036;s:8:"modified";i:1549236036;}s:7:"creator";s:13:"Andrew Salter";s:4:"user";s:7:"mrsalta";s:11:"last_change";a:8:{s:4:"date";i:1549236036;s:2:"ip";s:13:"47.232.168.32";s:4:"type";s:1:"C";s:2:"id";s:12:"spr:spr_home";s:4:"user";s:7:"mrsalta";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:377;}s:5:"title";s:20:"Sky Pirate Rebellion";s:11:"description";a:2:{s:15:"tableofcontents";a:5:{i:0;a:4:{s:3:"hid";s:20:"sky_pirate_rebellion";s:5:"title";s:20:"Sky Pirate Rebellion";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:5:"world";s:5:"title";s:5:"World";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:10:"characters";s:5:"title";s:10:"Characters";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:9:"locations";s:5:"title";s:9:"Locations";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:12:"story_points";s:5:"title";s:12:"Story Points";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:143:"Sky Pirate Rebellion
+
+World
+
+Characters
+
+	*  Adi
+	*  Braedan
+	*  Nova
+	*  Orion
+	*  Rais
+	*  Soren
+	*  Teva
+	*  
+
+Locations
+
+	*  
+
+Story Points";}s:8:"relation";a:2:{s:10:"references";a:7:{s:18:"spr:characters:adi";b:0;s:22:"spr:characters:braedan";b:0;s:19:"spr:characters:nova";b:0;s:20:"spr:characters:orion";b:0;s:19:"spr:characters:rais";b:0;s:20:"spr:characters:soren";b:0;s:19:"spr:characters:teva";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1549236036;}s:7:"creator";s:13:"Andrew Salter";s:4:"user";s:7:"mrsalta";s:11:"last_change";a:8:{s:4:"date";i:1549236036;s:2:"ip";s:13:"47.232.168.32";s:4:"type";s:1:"C";s:2:"id";s:12:"spr:spr_home";s:4:"user";s:7:"mrsalta";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:377;}}}

@@ -1,0 +1,36 @@
+====== Welcome ======
+Welcome to the Emmaverse Wiki. This is a place where we can document the various characters, worlds, etc that Emma built.
+===== Syntax =====
+==== Pages ====
+  * Each page is in its own namespace, so for example, No Man's Land exists in 'nomansland'. 
+  * Each major category is part of a subnamespace, so for example, No Man's Land characters exist in 'nomansland:characters'.
+=== Creating a new page ===
+Creating a page works just like any other wiki. On whatever page you want to link to it, add the page you want to create surrounded by <code>[[two square brackets]]</code>
+
+Use the following syntax:
+  * <code>[[namespace:subnamespace:pagename]]</code>
+  * So for a new character in No Man's Land, it would be <code>[[nomansland:characters:insertnamehere]]</code>
+
+====== No Man's Land ======
+[[nomansland:nml_home|No Man's Land]]
+===== World =====
+{{namespace>[nomansland]#world&noheader&nofooter}}
+===== Characters =====
+{{namespace>[nomansland]#characters&noheader&nofooter}}
+===== Locations =====
+{{namespace>[nomansland]#locations&noheader&nofooter}}
+===== Story Points =====
+----
+====== Sky Pirate Rebellion ======
+[[spr:spr_home|Sky Pirate Rebellion Main Page]]
+===== World =====
+{{namespace>[spr]#world&noheader&nofooter}}
+===== Characters =====
+{{namespace>[spr]#characters&noheader&nofooter}}
+===== Locations =====
+{{namespace>[spr]#locations&noheader&nofooter}}
+===== Story Points =====
+
+
+
+

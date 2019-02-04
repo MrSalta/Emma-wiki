@@ -1,0 +1,20 @@
+====== Sky Pirate Rebellion ======
+
+===== World =====
+
+
+===== Characters =====
+
+  * [[spr:characters:adi|Adi]]
+  * [[spr:characters:braedan|Braedan]]
+  * [[spr:characters:nova|Nova]]
+  * [[spr:characters:orion|Orion]]
+  * [[spr:characters:rais|Rais]]
+  * [[spr:characters:soren|Soren]]
+  * [[spr:characters:teva|Teva]]
+  * 
+
+===== Locations =====
+  * 
+
+===== Story Points =====

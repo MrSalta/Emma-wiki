@@ -1,0 +1,14 @@
+====== No Man's Land ======
+
+===== World =====
+
+
+===== Characters =====
+
+  * [[nomansland:characters:Akari]]
+  * [[nomansland:characters:Rai]]
+
+===== Locations =====
+  * [[nomansland:locations:Vault]]
+
+===== Story Points =====
