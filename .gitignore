@@ -1,2 +1,16 @@
 data/
 conf/
+# DokuWiki
+/data/attic/*
+/data/cache/*
+/data/index/*
+/data/locks/*
+/data/media/*
+/data/media_meta/*
+/data/media_attic/*
+/data/meta/*
+/data/pages/*
+/data/tmp/*
+!/data/pages/wiki/dokuwiki.txt
+!/data/pages/wiki/syntax.txt
+!/data/pages/wiki/welcome.txt
